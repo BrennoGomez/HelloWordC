@@ -1,2 +1,2 @@
-# HelloWordC
-Atividade de Paradigmas de Linguagens de Programação - Hello Word em C
+# HelloWorldC
+Atividade de Paradigmas de Linguagens de Programação - Hello World em C
